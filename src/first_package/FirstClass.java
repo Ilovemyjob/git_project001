@@ -11,6 +11,7 @@ public class FirstClass {
 
 		System.out.println("feature to next commit");
 
+		System.out.println("I want to 2.conflict");
 	}
 
 }
