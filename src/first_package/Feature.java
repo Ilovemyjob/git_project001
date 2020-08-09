@@ -13,7 +13,11 @@ System.out.println("This is my commit from feature branch");
 		System.out.println("heyyy This is my commit from feature branch");
 		System.out.println("heyyy This is my first commit from master branch");
 		System.out.println("heyyy This is my second commit from master branch");
+
 		System.out.println("This is my third commit from local master ");
+
+		System.out.println("heyyy This is my third commit from master branch");
+
 	}
 
 }
