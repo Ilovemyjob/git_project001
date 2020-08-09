@@ -11,7 +11,7 @@ System.out.println("This is my commit from feature branch");
 
 		
 		System.out.println("heyyy This is my commit from feature branch");
-
+		System.out.println("heyyy This is my first commit from master branch");
 	}
 
 }
